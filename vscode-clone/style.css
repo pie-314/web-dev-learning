@@ -1,0 +1,56 @@
+body{
+  background-color: #0e0e0e;
+}
+.header{
+  display: flex;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 10px;
+  justify-content: space-between;
+}
+.vscode{
+  font-size: 20px;
+  color: white;
+  font-weight: 550;
+}
+.favicon{
+  width: 25px;
+}
+.topLink{
+  cursor: pointer;
+  color: grey;
+  padding-left: 10px;
+}
+.toplinks {
+  display: flex;
+  gap: 10px;
+}
+.topSearch {
+  display: flex;
+  gap: 10px;
+}
+.version-text{
+  color: white;
+  text-align: center;
+}
+.centre-part{
+  padding-left: 300px;
+  padding-right: 300px;
+  align-items: center;
+  gap: 20px;
+  display: flex;
+  justify-content: space-between;
+} 
+.editing{
+  color: white;
+  font-size: 50px;
+}
+.text-part{
+  position: relative;
+  top:50%;
+}
+
+.download{
+  color: white;
+  font-size: 20px;
+}
